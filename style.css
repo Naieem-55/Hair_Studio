@@ -376,7 +376,7 @@ hr{
 }
 
 .testmonial-col:hover{
-transform: translateY(-10px);
+transform: translateY(-40px);
 }
 
 @media  screen and (max-width: 770px){
